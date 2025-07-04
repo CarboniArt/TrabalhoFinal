@@ -32,7 +32,7 @@ export default class SendForgotPasswordEmailService {
 		console.log(token);
 		await EtherealMail.sendMail({
 			to: { name: user.name, email: user.email },
-			subject: "[API VENDAS] Recuperação de Senha",
+			subject: "[API GESTÃO] Recuperação de Senha",
 			templateData: {
 				file: forgotPasswordTemplate,
 				variables: {
