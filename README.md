@@ -37,12 +37,12 @@ API REST desenvolvida como trabalho final do curso de **Ciência da Computação
 ---
 
 ## 🔄 Fluxo da API
-![Fluxo da API](TrabalhoFinal/Client-Server%20Interaction-2026-03-22-011841.png)
+![Fluxo da API](Client-Server%20Interaction-2026-03-22-011841.png)
 
 ---
 
 ## 🗄️ Diagrama do Banco de Dados
-![Diagrama do Banco de Dados](TrabalhoFinal/Client-Server%20Interaction-2026-03-22-012252.png)
+![Diagrama do Banco de Dados](Client-Server%20Interaction-2026-03-22-012252.png)
 ---
 
 ## ⚙️ Tecnologias
