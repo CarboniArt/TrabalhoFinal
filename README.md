@@ -1,4 +1,4 @@
-# 🚀 TrabalhoFinal - Gerenciador de Gastos Familiar
+# TrabalhoFinal - Gerenciador de Gastos Familiar
 
 <div align="center">
 
@@ -37,12 +37,12 @@ API REST desenvolvida como trabalho final do curso de **Ciência da Computação
 ---
 
 ## 🔄 Fluxo da API
-!(TrabalhoFinal\Client-Server Interaction-2026-03-22-011841.png)
+![Fluxo da API](TrabalhoFinal/Client-Server%20Interaction-2026-03-22-011841.png)
 
 ---
 
 ## 🗄️ Diagrama do Banco de Dados
-!(TrabalhoFinal\Client-Server Interaction-2026-03-22-012252.png)
+![Diagrama do Banco de Dados](TrabalhoFinal\Client-Server Interaction-2026-03-22-012252.png)
 
 ---
 
